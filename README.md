@@ -1,7 +1,7 @@
 ### Hello World! Eu me chamo Matheus Camilo!
 
-- 🔭 Hoje trabalho com aplicões desktop
-- 🌱 Estudando AWS
+- 🔭 Hoje trabalho com aplicações desktop
+- 🌱 Estudando AWS, Django e Angular
 - 📫 Contate-me pelo email: matheuscamilovelanzuelameira@gmail.com
  
 <div>
