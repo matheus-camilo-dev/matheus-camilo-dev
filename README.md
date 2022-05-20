@@ -1,6 +1,6 @@
 ### Hello World! Eu me chamo Matheus Camilo!
 
-- 🔭 Hoje trabalho com aplicações desktop
+- 🔭 Hoje trabalho com aplicações desktop e back-end usando python
 - 🌱 Estudando AWS e Angular
 - 📫 Contate-me pelo email: matheuscamilovelanzuelameira@gmail.com
  
