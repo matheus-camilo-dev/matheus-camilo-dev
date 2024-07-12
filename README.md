@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com aplicações desktop e back-end usando python
 - 🌱 Estudando AWS e Angular
-- 📫 Contate-me pelo email: matheuscamilovelanzuelameira@gmail.com
+- 📫 Contate-me pelo email: matheus.camilo.dev@gmail.com
  
 <div>
   <a href="https://github.com/matheus-camilo-dev">
