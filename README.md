@@ -1,7 +1,7 @@
 ### Hello World! Eu me chamo Matheus Camilo!
 
-- 🔭 Hoje trabalho com aplicações desktop e back-end usando python
-- 🌱 Estudando AWS e Angular
+- 🔭 Hoje trabalho com aplicações Backend usando .Net C# e angular para o Frontend
+- 🌱 Estudando AWS e Arquitura de Aplicações
 - 📫 Contate-me pelo email: matheus.camilo.dev@gmail.com
  
 <div>
