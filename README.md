@@ -1,20 +1,14 @@
 ### Hello World! Eu me chamo Matheus Camilo!
 
-- 🔭 Hoje trabalho com aplicações Backend usando .Net C# e angular para o Frontend
-- 🌱 Estudando AWS e Arquitura de Aplicações
+- 🔭 Hoje trabalho com aplicações Web (FullStack)
+- 🌱 Buscando aprender cada vez mais sobre os avanços e capacidades da IA
 - 📫 Contate-me pelo email: matheus.camilo.dev@gmail.com
  
 <div>
   <a href="https://github.com/matheus-camilo-dev">
-  <!--<img height="180em" weight:"300em" src="https://github-readme-stats.vercel.app/api?username=matheus-camilo-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-camilo-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
- <img align="center" alt="Matheus-c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
- <img align="center" alt="Matheus-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> 
- <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Matheus-Pyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,python,js,html,css,react,angular,flutter,dart,aws,azure,postgres,mongodb,docker,rabbitmq)](https://skillicons.dev)
   
   ##
  
